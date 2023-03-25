@@ -2,6 +2,8 @@
 
 This project consists of performing an analysis on sales data of a fictitious company that sells products in all corners of the world.
 
+This project was developed in a Data Science Academy course: https://www.datascienceacademy.com.br
+
 The purpose of this project is to extract information about the company's sales data that products marketed in all corners of the world. The 5 questions below must be answered: 
 
 • Question 1 - What is the total amount sold?
